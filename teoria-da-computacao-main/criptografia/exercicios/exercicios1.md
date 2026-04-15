@@ -5,11 +5,6 @@
 
 # Simulado - Criptografia (Completo)
 
-**Nome:** Victor Gabriel Silva
-**Curso:** Engenharia de Software
-
----
-
 ## Bloco 1: Histórico da Criptografia (Questões 1 a 12)
 
 **1. Qual é considerada a primeira cifra conhecida, descrita no Antigo Testamento, que substituía a primeira letra do alfabeto pela última?**
